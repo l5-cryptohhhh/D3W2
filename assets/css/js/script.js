@@ -83,7 +83,7 @@ const perColoriOcchi = {
     yellow: [],
     brown: [],
     red: [],
-    'blue gray': []
+    ['blue gray']: []
 };
 
 
