@@ -222,5 +222,5 @@ console.log('Lunghezza dopo:', nomi.length);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 for (let colore in perColoriOcchi) {
-    console.log(colore + ':' + perColoriOcchi[colore].length + 'personaggi');
+    console.log(colore + ':' + perColoriOcchi[colore].length + ' personaggi');
 }
